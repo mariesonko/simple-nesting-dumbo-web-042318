@@ -16,7 +16,7 @@ def hopper
         }
      }
 programmer_hash[:known_for] = "COBOL"
-programmer_hash[:languages] =("COBOL", "FORTRAN")
+programmer_hash[:languages] =( "COBOL", "FOLTRAN")
 puts programmer_hash
 end
 
